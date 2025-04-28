@@ -3753,9 +3753,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a673a1837fd8f543a8b5b4c1c10d4e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shootPoint: {fileID: 0}
-  target: {fileID: 0}
-  bulletPrefab: {fileID: 0}
+  shootPoint: {fileID: 22025217}
+  target: {fileID: 1559961289}
+  bulletPrefab: {fileID: -1138314156926351753, guid: 4797baaf662cef14fa5b3123869ff9e7, type: 3}
 --- !u!1 &1321280653
 GameObject:
   m_ObjectHideFlags: 0
